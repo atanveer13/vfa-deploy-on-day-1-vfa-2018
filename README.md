@@ -30,7 +30,7 @@ You'll have the whole workshop to complete this lab. Use that time to get to kno
 
 Please collect the following content from your assigned partner for their profile. This content doesn't have to be finalized, but you need something. They'll be using this content as the project evolves for their resume and other profiles online.
 
-* Name
+* Name 
 * Github Username
 * Blog Url (if they don't already have a blog, we'll set one up at their-github-username.github.io)
 * Tagline
